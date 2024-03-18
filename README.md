@@ -31,16 +31,6 @@
 <br />
 
 <!-- About Section -->
-##  :partly_sunny: Dreams Don't Wait :partly_sunny:
-
-Life without __dreams__:sparkling_heart: is like a bird with a broken wing - it can't __fly__:hatched_chick:
-
-Let your __dreams__:sparkling_heart: be your __wings__:baby_chick:
-
-<br/>
-<br/>
-<br/>
-
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
